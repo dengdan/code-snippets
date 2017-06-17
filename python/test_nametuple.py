@@ -1,3 +1,9 @@
+"""
+Usage of:
+    nametuple
+    special methods like __len__, __getitem__
+    random.choice
+"""
 import collections
 import util
 util.init_logger()
@@ -24,3 +30,7 @@ print cards[0]
 
 import random
 print random.choice(cards)
+
+for card in cards:
+    print card
+    
