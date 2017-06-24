@@ -1,3 +1,3 @@
 git add . --all
-git commit -m 'first commit'
+git commit -m 'notes on fluent python'
 git push origin master
