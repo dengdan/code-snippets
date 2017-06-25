@@ -1,4 +1,4 @@
-[URL of this problem](https://leetcode.com/problems/regular-expression-matching/#/description)
+[10. Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/#/description)
 
 It's a typical dynamical programming problem. The most troublesome part is the status transferring condition.
 Three versions of solutions are provided now.
