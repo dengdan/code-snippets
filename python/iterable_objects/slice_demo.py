@@ -1,5 +1,3 @@
-from pygame.draw import ellipse
-
 # Why the start included but last excluded
 arr = range(10)
 print arr[3:9] # we can get the number of fetched elements at a quick glance: end - start. no need to add 1
@@ -19,3 +17,6 @@ print arr[index]
 print 'before del:', arr
 del arr[2:5]
 print 'after del:', arr
+
+# slice attributes
+print(index.indices(3), index.start, index.stop, index.step)

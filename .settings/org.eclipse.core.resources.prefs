@@ -1,4 +1,14 @@
 eclipse.preferences.version=1
 encoding//python/iterable_objects/dict/dict_composition.py=utf-8
 encoding//python/iterable_objects/dict/dict_default.py=utf-8
-encoding//python/iterable_objects/dict/dict_missing_method.py=utf-8
+encoding//python/iterable_objects/dict/user_dict.py=utf-8
+encoding//python/module/another/to_be_loaded.py=utf-8
+encoding//python/module/another_run_time.py=utf-8
+encoding//python/module/load_mod_from_path.py=utf-8
+encoding//python/module/to_be_loaded.py=utf-8
+encoding//python/oop/abc/abstract_cls_demo.py=utf-8
+encoding//python/oop/getattr_demo.py=utf8
+encoding//python/oop/readonly_property.py=utf8
+encoding//python/oop/sequence_protocol.py=utf-8
+encoding//python/threads/multiprocess_demo.py=utf-8
+encoding//tf/image/rotate_demo.py=utf-8
