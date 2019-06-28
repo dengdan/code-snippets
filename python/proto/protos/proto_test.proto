@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package proto_test;
+
+message ProtoTest {
+    required int32 num = 1 [default = 1000];
+    required float fnum = 2 [default = 1.0];
+}
