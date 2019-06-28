@@ -1,0 +1,4 @@
+before get: hello
+in non-const get
+in const get
+after get: he3lo
